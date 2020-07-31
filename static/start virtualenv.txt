@@ -1,0 +1,5 @@
+C:\muhammed> .\missionvirenv\Scripts\activate
+
+go to the folder where your virtual enivronment folder is present
+and .\missionvirenv\Scripts\activate run this command
+here,  missionvirenv is the virtual enivronment name
